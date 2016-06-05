@@ -1,0 +1,1020 @@
+# LANGUAGE translation of the Godot Engine editor
+# Copyright (C) 2016 Juan Linietsky, Ariel Manzur and the Godot community
+# This file is distributed under the same license as the Godot source code.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Godot Engine editor\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_ES\n"
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Rotating %s degrees."
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Bottom View."
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Bottom"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Top View."
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Top"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Rear View."
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Rear"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Front View."
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Front"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Left View."
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Left"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Right View."
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Right"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Keying is disabled (no key inserted)."
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Animation Key Inserted."
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Align with view"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Top (Num7)"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Bottom (Shift+Num7)"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Left (Num3)"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Right (Shift+Num3)"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Front (Num1)"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Rear (Shift+Num1)"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Perspective (Num5)"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Orthogonal (Num5)"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Environment"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Audio Listener"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Gizmos"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Selection (F)"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Align with view (Ctrl+Shift+F)"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "XForm Dialog"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "No scene selected to instance!"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Instance at Cursor"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Could not instance scene!"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Scale Mode (R)"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Transform"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Local Coords"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Transform Dialog.."
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Use Default Light"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Use Default sRGB"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "1 Viewport"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "2 Viewports"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "2 Viewports (Alt)"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "3 Viewports"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "3 Viewports (Alt)"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "4 Viewports"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Display Normal"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Display Wireframe"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Display Overdraw"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Display Shadeless"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "View Origin"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "View Grid"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Snap Settings"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Translate Snap:"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Rotate Snap (deg.):"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Scale Snap (%):"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Viewport Settings"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Default Light Normal:"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Ambient Light Color:"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Perspective FOV (deg.):"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "View Z-Near:"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "View Z-Far:"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Transform Change"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Translate:"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Rotate (deg.):"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Scale (ratio):"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Transform Type"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Pre"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Post"
+msgstr ""
+
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "ERROR: Couldn't load frame resource!"
+msgstr ""
+
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Add Frame"
+msgstr ""
+
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Resource clipboard is empty or not a texture!"
+msgstr ""
+
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Paste Frame"
+msgstr ""
+
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Add Empty"
+msgstr ""
+
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Change Animation Loop"
+msgstr ""
+
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Change Animation FPS"
+msgstr ""
+
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "(empty)"
+msgstr ""
+
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Animations"
+msgstr ""
+
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Speed (FPS):"
+msgstr ""
+
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Animation Frames"
+msgstr ""
+
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Insert Empty (Before)"
+msgstr ""
+
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Insert Empty (After)"
+msgstr ""
+
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Up"
+msgstr ""
+
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Down"
+msgstr ""
+
+#: tools/editor/plugins/sprite_region_editor_plugin.cpp
+msgid "Set region_rect"
+msgstr ""
+
+#: tools/editor/plugins/sprite_region_editor_plugin.cpp
+msgid "Sprite Region Editor"
+msgstr ""
+
+#: tools/editor/plugins/style_box_editor_plugin.cpp
+msgid "StyleBox Preview:"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Can't save theme to file:"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Add All Items"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Add All"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+#: tools/editor/plugins/tile_set_editor_plugin.cpp
+msgid "Remove Item"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Add Class Items"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Remove Class Items"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Create Template"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "CheckBox Radio1"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "CheckBox Radio2"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Item"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Check Item"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Checked Item"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Has"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Many"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp tools/editor/project_export.cpp
+msgid "Options"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Have,Many,Several,Options!"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Tab 1"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Tab 2"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Tab 3"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+#: tools/editor/project_settings.cpp tools/editor/scene_tree_editor.cpp
+#: tools/editor/script_editor_debugger.cpp
+msgid "Type:"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Data Type:"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Icon"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Style"
+msgstr ""
+
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Color"
+msgstr ""
+
+#: tools/editor/plugins/tile_map_editor_plugin.cpp
+msgid "Paint TileMap"
+msgstr ""
+
+#: tools/editor/plugins/tile_map_editor_plugin.cpp
+#: tools/editor/scene_tree_dock.cpp
+msgid "Duplicate"
+msgstr ""
+
+#: tools/editor/plugins/tile_map_editor_plugin.cpp
+msgid "Erase TileMap"
+msgstr ""
+
+#: tools/editor/plugins/tile_map_editor_plugin.cpp
+msgid "Bucket"
+msgstr ""
+
+#: tools/editor/plugins/tile_map_editor_plugin.cpp
+msgid "Pick Tile"
+msgstr ""
+
+#: tools/editor/plugins/tile_map_editor_plugin.cpp
+msgid "Select"
+msgstr ""
+
+#: tools/editor/plugins/tile_map_editor_plugin.cpp
+msgid "Erase Selection"
+msgstr ""
+
+#: tools/editor/plugins/tile_map_editor_plugin.cpp
+msgid "Transpose"
+msgstr ""
+
+#: tools/editor/plugins/tile_map_editor_plugin.cpp
+msgid "Mirror X (A)"
+msgstr ""
+
+#: tools/editor/plugins/tile_map_editor_plugin.cpp
+msgid "Mirror Y (S)"
+msgstr ""
+
+#: tools/editor/plugins/tile_map_editor_plugin.cpp
+msgid "Rotate 0 degrees"
+msgstr ""
+
+#: tools/editor/plugins/tile_map_editor_plugin.cpp
+msgid "Rotate 90 degrees"
+msgstr ""
+
+#: tools/editor/plugins/tile_map_editor_plugin.cpp
+msgid "Rotate 180 degrees"
+msgstr ""
+
+#: tools/editor/plugins/tile_map_editor_plugin.cpp
+msgid "Rotate 270 degrees"
+msgstr ""
+
+#: tools/editor/plugins/tile_set_editor_plugin.cpp
+msgid "Could not find tile:"
+msgstr ""
+
+#: tools/editor/plugins/tile_set_editor_plugin.cpp
+msgid "Item name or ID:"
+msgstr ""
+
+#: tools/editor/plugins/tile_set_editor_plugin.cpp
+msgid "Create from scene?"
+msgstr ""
+
+#: tools/editor/plugins/tile_set_editor_plugin.cpp
+msgid "Merge from scene?"
+msgstr ""
+
+#: tools/editor/plugins/tile_set_editor_plugin.cpp
+msgid "Create from Scene"
+msgstr ""
+
+#: tools/editor/plugins/tile_set_editor_plugin.cpp
+msgid "Merge from Scene"
+msgstr ""
+
+#: tools/editor/plugins/tile_set_editor_plugin.cpp
+#: tools/editor/script_editor_debugger.cpp
+msgid "Error"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Edit Script Options"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Please export outside the project folder!"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Error exporting project!"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Error writing the project PCK!"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "No exporter for platform '%s' yet."
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Include"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Change Image Group"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Group name can't be empty!"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Invalid character in group name!"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Group name already exists!"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Add Image Group"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Delete Image Group"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Atlas Preview"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Project Export Settings"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Target"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Export to Platform"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Resources"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Export selected resources (including dependencies)."
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Export all resources in the project."
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Export all files in the project directory."
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Export Mode:"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Resources to Export:"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Action"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid ""
+"Filters to export non-resource files (comma-separated, e.g.: *.json, *.txt):"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Filters to exclude from export (comma-separated, e.g.: *.json, *.txt):"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Convert text scenes to binary on export."
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Images"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Keep Original"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Compress for Disk (Lossy, WebP)"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Compress for RAM (BC/PVRTC/ETC)"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Convert Images (*.png):"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Compress for Disk (Lossy) Quality:"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Shrink All Images:"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Compress Formats:"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Image Groups"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Groups:"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Compress Disk"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Compress RAM"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Compress Mode:"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Lossy Quality:"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Atlas:"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Shrink By:"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Preview Atlas"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Image Filter:"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Images:"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Select None"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Samples"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Sample Conversion Mode: (.wav files):"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Keep"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Compress (RAM - IMA-ADPCM)"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Sampling Rate Limit (Hz):"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Trim"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Trailing Silence:"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Script"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Script Export Mode:"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Text"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Compiled"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Encrypted (Provide Key Below)"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Script Encryption Key (256-bits as hex):"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Export PCK/Zip"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Export Project PCK"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Export.."
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Project Export"
+msgstr ""
+
+#: tools/editor/project_export.cpp
+msgid "Export Preset:"
+msgstr ""
+
+#: tools/editor/project_manager.cpp
+msgid "Invalid project path, the path must exist!"
+msgstr ""
+
+#: tools/editor/project_manager.cpp
+msgid "Invalid project path, engine.cfg must not exist."
+msgstr ""
+
+#: tools/editor/project_manager.cpp
+msgid "Invalid project path, engine.cfg must exist."
+msgstr ""
+
+#: tools/editor/project_manager.cpp
+msgid "Imported Project"
+msgstr ""
+
+#: tools/editor/project_manager.cpp
+msgid "Invalid project path (changed anything?)."
+msgstr ""
+
+#: tools/editor/project_manager.cpp
+msgid "Couldn't create engine.cfg in project path."
+msgstr ""
+
+#: tools/editor/project_manager.cpp
+msgid "Import Existing Project"
+msgstr ""
+
+#: tools/editor/project_manager.cpp
+msgid "Project Path (Must Exist):"
+msgstr ""
+
+#: tools/editor/project_manager.cpp
+msgid "Project Name:"
+msgstr ""
+
+#: tools/editor/project_manager.cpp
+msgid "Create New Project"
+msgstr ""
+
+#: tools/editor/project_manager.cpp
+msgid "Project Path:"
+msgstr ""
+
+#: tools/editor/project_manager.cpp
+msgid "Browse"
+msgstr ""
+
+#: tools/editor/project_manager.cpp
+msgid "New Game Project"
+msgstr ""
+
+#: tools/editor/project_manager.cpp
+msgid "That's a BINGO!"
+msgstr ""
+
+#: tools/editor/project_manager.cpp
+msgid "Unnamed Project"
+msgstr ""
+
+#: tools/editor/project_manager.cpp
+msgid "Are you sure to open more than one projects?"
+msgstr ""
+
+#: tools/editor/project_manager.cpp
+msgid "Are you sure to run more than one projects?"
+msgstr ""
+
+#: tools/editor/project_manager.cpp
+msgid "Remove project from the list? (Folder contents will not be modified)"
+msgstr ""
+
+#: tools/editor/project_manager.cpp
+msgid "Recent Projects:"
+msgstr ""
+
+#: tools/editor/project_manager.cpp
+msgid "Run"
+msgstr ""
+
+#: tools/editor/project_manager.cpp
+msgid "Scan"
+msgstr ""
+
+#: tools/editor/project_manager.cpp
+msgid "New Project"
+msgstr ""
+
+#: tools/editor/project_manager.cpp
+msgid "Exit"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Key "
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Joy Button"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Joy Axis"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Mouse Button"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Invalid action (anything goes but '/' or ':')."
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Action '%s' already exists!"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Rename Input Action Event"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Add Input Action Event"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Meta+"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Shift+"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Alt+"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Control+"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Press a Key.."
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Mouse Button Index:"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Left Button"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Right Button"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Middle Button"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Wheel Up Button"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Wheel Down Button"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Button 6"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Button 7"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Button 8"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Button 9"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Joystick Axis Index:"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Axis"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Joystick Button Index:"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Add Input Action"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Erase Input Action Event"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Device"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Button"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Left Button."
+msgstr ""

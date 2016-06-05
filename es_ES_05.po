@@ -1,0 +1,1023 @@
+# LANGUAGE translation of the Godot Engine editor
+# Copyright (C) 2016 Juan Linietsky, Ariel Manzur and the Godot community
+# This file is distributed under the same license as the Godot source code.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Godot Engine editor\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_ES\n"
+
+#: tools/editor/plugins/collision_polygon_2d_editor_plugin.cpp
+#: tools/editor/plugins/collision_polygon_editor_plugin.cpp
+#: tools/editor/plugins/light_occluder_2d_editor_plugin.cpp
+#: tools/editor/plugins/navigation_polygon_editor_plugin.cpp
+#: tools/editor/plugins/path_2d_editor_plugin.cpp
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+msgid "Edit Poly (Remove Point)"
+msgstr ""
+
+#: tools/editor/plugins/collision_polygon_2d_editor_plugin.cpp
+#: tools/editor/plugins/light_occluder_2d_editor_plugin.cpp
+#: tools/editor/plugins/navigation_polygon_editor_plugin.cpp
+msgid "Create a new polygon from scratch."
+msgstr ""
+
+#: tools/editor/plugins/collision_polygon_editor_plugin.cpp
+msgid "Create Poly3D"
+msgstr ""
+
+#: tools/editor/plugins/collision_shape_2d_editor_plugin.cpp
+msgid "Set Handle"
+msgstr ""
+
+#: tools/editor/plugins/color_ramp_editor_plugin.cpp
+msgid "Add/Remove Color Ramp Point"
+msgstr ""
+
+#: tools/editor/plugins/color_ramp_editor_plugin.cpp
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Modify Color Ramp"
+msgstr ""
+
+#: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp
+msgid "Creating Mesh Library"
+msgstr ""
+
+#: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp
+msgid "Thumbnail.."
+msgstr ""
+
+#: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp
+msgid "Remove item %d?"
+msgstr ""
+
+#: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp
+#: tools/editor/plugins/theme_editor_plugin.cpp
+#: tools/editor/plugins/tile_set_editor_plugin.cpp
+msgid "Add Item"
+msgstr ""
+
+#: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp
+msgid "Remove Selected Item"
+msgstr ""
+
+#: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp
+msgid "Import from Scene"
+msgstr ""
+
+#: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp
+msgid "Update from Scene"
+msgstr ""
+
+#: tools/editor/plugins/item_list_editor_plugin.cpp
+msgid "Item %d"
+msgstr ""
+
+#: tools/editor/plugins/item_list_editor_plugin.cpp
+msgid "Items"
+msgstr ""
+
+#: tools/editor/plugins/item_list_editor_plugin.cpp
+msgid "Item List Editor"
+msgstr ""
+
+#: tools/editor/plugins/light_occluder_2d_editor_plugin.cpp
+msgid "Create Occluder Polygon"
+msgstr ""
+
+#: tools/editor/plugins/light_occluder_2d_editor_plugin.cpp
+#: tools/editor/plugins/navigation_polygon_editor_plugin.cpp
+msgid "Edit existing polygon:"
+msgstr ""
+
+#: tools/editor/plugins/light_occluder_2d_editor_plugin.cpp
+#: tools/editor/plugins/navigation_polygon_editor_plugin.cpp
+msgid "LMB: Move Point."
+msgstr ""
+
+#: tools/editor/plugins/light_occluder_2d_editor_plugin.cpp
+#: tools/editor/plugins/navigation_polygon_editor_plugin.cpp
+msgid "Ctrl+LMB: Split Segment."
+msgstr ""
+
+#: tools/editor/plugins/light_occluder_2d_editor_plugin.cpp
+#: tools/editor/plugins/navigation_polygon_editor_plugin.cpp
+msgid "RMB: Erase Point."
+msgstr ""
+
+#: tools/editor/plugins/mesh_instance_editor_plugin.cpp
+msgid "Mesh is empty!"
+msgstr ""
+
+#: tools/editor/plugins/mesh_instance_editor_plugin.cpp
+msgid "Create Static Trimesh Body"
+msgstr ""
+
+#: tools/editor/plugins/mesh_instance_editor_plugin.cpp
+msgid "Create Static Convex Body"
+msgstr ""
+
+#: tools/editor/plugins/mesh_instance_editor_plugin.cpp
+msgid "This doesn't work on scene root!"
+msgstr ""
+
+#: tools/editor/plugins/mesh_instance_editor_plugin.cpp
+msgid "Create Trimesh Shape"
+msgstr ""
+
+#: tools/editor/plugins/mesh_instance_editor_plugin.cpp
+msgid "Create Convex Shape"
+msgstr ""
+
+#: tools/editor/plugins/mesh_instance_editor_plugin.cpp
+msgid "Create Navigation Mesh"
+msgstr ""
+
+#: tools/editor/plugins/mesh_instance_editor_plugin.cpp
+msgid "MeshInstance lacks a Mesh!"
+msgstr ""
+
+#: tools/editor/plugins/mesh_instance_editor_plugin.cpp
+msgid "Could not create outline!"
+msgstr ""
+
+#: tools/editor/plugins/mesh_instance_editor_plugin.cpp
+msgid "Create Outline"
+msgstr ""
+
+#: tools/editor/plugins/mesh_instance_editor_plugin.cpp
+msgid "Create Trimesh Static Body"
+msgstr ""
+
+#: tools/editor/plugins/mesh_instance_editor_plugin.cpp
+msgid "Create Convex Static Body"
+msgstr ""
+
+#: tools/editor/plugins/mesh_instance_editor_plugin.cpp
+msgid "Create Trimesh Collision Sibling"
+msgstr ""
+
+#: tools/editor/plugins/mesh_instance_editor_plugin.cpp
+msgid "Create Convex Collision Sibling"
+msgstr ""
+
+#: tools/editor/plugins/mesh_instance_editor_plugin.cpp
+msgid "Create Outline Mesh.."
+msgstr ""
+
+#: tools/editor/plugins/mesh_instance_editor_plugin.cpp
+msgid "Create Outline Mesh"
+msgstr ""
+
+#: tools/editor/plugins/mesh_instance_editor_plugin.cpp
+msgid "Outline Size:"
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "No mesh source specified (and no MultiMesh set in node)."
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "No mesh source specified (and MultiMesh contains no Mesh)."
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Mesh source is invalid (invalid path)."
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Mesh source is invalid (not a MeshInstance)."
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Mesh source is invalid (contains no Mesh resource)."
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "No surface source specified."
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Surface source is invalid (invalid path)."
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Surface source is invalid (no geometry)."
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Surface source is invalid (no faces)."
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Parent has no solid faces to populate."
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Couldn't map area."
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Select a Source Mesh:"
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Select a Target Surface:"
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Populate Surface"
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Populate MultiMesh"
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Target Surface:"
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Source Mesh:"
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "X-Axis"
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Y-Axis"
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Z-Axis"
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Mesh Up Axis:"
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Random Rotation:"
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Random Tilt:"
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Random Scale:"
+msgstr ""
+
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Populate"
+msgstr ""
+
+#: tools/editor/plugins/navigation_polygon_editor_plugin.cpp
+msgid "Create Navigation Polygon"
+msgstr ""
+
+#: tools/editor/plugins/navigation_polygon_editor_plugin.cpp
+msgid "Remove Poly And Point"
+msgstr ""
+
+#: tools/editor/plugins/particles_2d_editor_plugin.cpp
+msgid "Error loading image:"
+msgstr ""
+
+#: tools/editor/plugins/particles_2d_editor_plugin.cpp
+msgid "No pixels with transparency > 128 in image.."
+msgstr ""
+
+#: tools/editor/plugins/particles_2d_editor_plugin.cpp
+msgid "Set Emission Mask"
+msgstr ""
+
+#: tools/editor/plugins/particles_2d_editor_plugin.cpp
+msgid "Clear Emission Mask"
+msgstr ""
+
+#: tools/editor/plugins/particles_2d_editor_plugin.cpp
+msgid "Load Emission Mask"
+msgstr ""
+
+#: tools/editor/plugins/particles_2d_editor_plugin.cpp
+msgid "Generated Point Count:"
+msgstr ""
+
+#: tools/editor/plugins/particles_editor_plugin.cpp
+msgid "Node does not contain geometry."
+msgstr ""
+
+#: tools/editor/plugins/particles_editor_plugin.cpp
+msgid "Node does not contain geometry (faces)."
+msgstr ""
+
+#: tools/editor/plugins/particles_editor_plugin.cpp
+msgid "Faces contain no area!"
+msgstr ""
+
+#: tools/editor/plugins/particles_editor_plugin.cpp
+msgid "No faces!"
+msgstr ""
+
+#: tools/editor/plugins/particles_editor_plugin.cpp
+msgid "Generate AABB"
+msgstr ""
+
+#: tools/editor/plugins/particles_editor_plugin.cpp
+msgid "Create Emitter From Mesh"
+msgstr ""
+
+#: tools/editor/plugins/particles_editor_plugin.cpp
+msgid "Create Emitter From Node"
+msgstr ""
+
+#: tools/editor/plugins/particles_editor_plugin.cpp
+msgid "Clear Emitter"
+msgstr ""
+
+#: tools/editor/plugins/particles_editor_plugin.cpp
+msgid "Create Emitter"
+msgstr ""
+
+#: tools/editor/plugins/particles_editor_plugin.cpp
+msgid "Emission Positions:"
+msgstr ""
+
+#: tools/editor/plugins/particles_editor_plugin.cpp
+msgid "Emission Fill:"
+msgstr ""
+
+#: tools/editor/plugins/particles_editor_plugin.cpp
+msgid "Surface"
+msgstr ""
+
+#: tools/editor/plugins/particles_editor_plugin.cpp
+msgid "Volume"
+msgstr ""
+
+#: tools/editor/plugins/path_2d_editor_plugin.cpp
+msgid "Remove Point from Curve"
+msgstr ""
+
+#: tools/editor/plugins/path_2d_editor_plugin.cpp
+#: tools/editor/plugins/path_editor_plugin.cpp
+msgid "Add Point to Curve"
+msgstr ""
+
+#: tools/editor/plugins/path_2d_editor_plugin.cpp
+msgid "Move Point in Curve"
+msgstr ""
+
+#: tools/editor/plugins/path_2d_editor_plugin.cpp
+msgid "Move In-Control in Curve"
+msgstr ""
+
+#: tools/editor/plugins/path_2d_editor_plugin.cpp
+msgid "Move Out-Control in Curve"
+msgstr ""
+
+#: tools/editor/plugins/path_2d_editor_plugin.cpp
+#: tools/editor/plugins/path_editor_plugin.cpp
+msgid "Select Points"
+msgstr ""
+
+#: tools/editor/plugins/path_2d_editor_plugin.cpp
+#: tools/editor/plugins/path_editor_plugin.cpp
+msgid "Shift+Drag: Select Control Points"
+msgstr ""
+
+#: tools/editor/plugins/path_2d_editor_plugin.cpp
+#: tools/editor/plugins/path_editor_plugin.cpp
+msgid "Click: Add Point"
+msgstr ""
+
+#: tools/editor/plugins/path_2d_editor_plugin.cpp
+#: tools/editor/plugins/path_editor_plugin.cpp
+msgid "Right Click: Delete Point"
+msgstr ""
+
+#: tools/editor/plugins/path_2d_editor_plugin.cpp
+msgid "Select Control Points (Shift+Drag)"
+msgstr ""
+
+#: tools/editor/plugins/path_2d_editor_plugin.cpp
+#: tools/editor/plugins/path_editor_plugin.cpp
+msgid "Add Point (in empty space)"
+msgstr ""
+
+#: tools/editor/plugins/path_2d_editor_plugin.cpp
+#: tools/editor/plugins/path_editor_plugin.cpp
+msgid "Split Segment (in curve)"
+msgstr ""
+
+#: tools/editor/plugins/path_2d_editor_plugin.cpp
+#: tools/editor/plugins/path_editor_plugin.cpp
+msgid "Delete Point"
+msgstr ""
+
+#: tools/editor/plugins/path_2d_editor_plugin.cpp
+#: tools/editor/plugins/path_editor_plugin.cpp
+msgid "Close Curve"
+msgstr ""
+
+#: tools/editor/plugins/path_editor_plugin.cpp
+msgid "Curve Point #"
+msgstr ""
+
+#: tools/editor/plugins/path_editor_plugin.cpp
+msgid "Set Curve Point Pos"
+msgstr ""
+
+#: tools/editor/plugins/path_editor_plugin.cpp
+msgid "Set Curve In Pos"
+msgstr ""
+
+#: tools/editor/plugins/path_editor_plugin.cpp
+msgid "Set Curve Out Pos"
+msgstr ""
+
+#: tools/editor/plugins/path_editor_plugin.cpp
+msgid "Split Path"
+msgstr ""
+
+#: tools/editor/plugins/path_editor_plugin.cpp
+msgid "Remove Path Point"
+msgstr ""
+
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+msgid "Create UV Map"
+msgstr ""
+
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+msgid "Transform UV Map"
+msgstr ""
+
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+msgid "Polygon 2D UV Editor"
+msgstr ""
+
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+msgid "Move Point"
+msgstr ""
+
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+msgid "Ctrl: Rotate"
+msgstr ""
+
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+msgid "Shift: Move All"
+msgstr ""
+
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+msgid "Shift+Ctrl: Scale"
+msgstr ""
+
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+msgid "Move Polygon"
+msgstr ""
+
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+msgid "Rotate Polygon"
+msgstr ""
+
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+msgid "Scale Polygon"
+msgstr ""
+
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+msgid "Polygon->UV"
+msgstr ""
+
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+msgid "UV->Polygon"
+msgstr ""
+
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+msgid "Clear UV"
+msgstr ""
+
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+#: tools/editor/plugins/sprite_region_editor_plugin.cpp
+msgid "Snap"
+msgstr ""
+
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+#: tools/editor/plugins/sprite_region_editor_plugin.cpp
+msgid "Enable Snap"
+msgstr ""
+
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+#: tools/editor/plugins/sprite_region_editor_plugin.cpp
+msgid "Grid"
+msgstr ""
+
+#: tools/editor/plugins/resource_preloader_editor_plugin.cpp
+msgid "ERROR: Couldn't load resource!"
+msgstr ""
+
+#: tools/editor/plugins/resource_preloader_editor_plugin.cpp
+msgid "Add Resource"
+msgstr ""
+
+#: tools/editor/plugins/resource_preloader_editor_plugin.cpp
+msgid "Rename Resource"
+msgstr ""
+
+#: tools/editor/plugins/resource_preloader_editor_plugin.cpp
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Delete Resource"
+msgstr ""
+
+#: tools/editor/plugins/resource_preloader_editor_plugin.cpp
+msgid "Resource clipboard is empty!"
+msgstr ""
+
+#: tools/editor/plugins/resource_preloader_editor_plugin.cpp
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Load Resource"
+msgstr ""
+
+#: tools/editor/plugins/rich_text_editor_plugin.cpp
+msgid "Parse BBCode"
+msgstr ""
+
+#: tools/editor/plugins/sample_editor_plugin.cpp
+msgid "Length:"
+msgstr ""
+
+#: tools/editor/plugins/sample_library_editor_plugin.cpp
+msgid "Open Sample File(s)"
+msgstr ""
+
+#: tools/editor/plugins/sample_library_editor_plugin.cpp
+msgid "ERROR: Couldn't load sample!"
+msgstr ""
+
+#: tools/editor/plugins/sample_library_editor_plugin.cpp
+msgid "Add Sample"
+msgstr ""
+
+#: tools/editor/plugins/sample_library_editor_plugin.cpp
+msgid "Stop"
+msgstr ""
+
+#: tools/editor/plugins/sample_library_editor_plugin.cpp
+msgid "Play"
+msgstr ""
+
+#: tools/editor/plugins/sample_library_editor_plugin.cpp
+msgid "Rename Sample"
+msgstr ""
+
+#: tools/editor/plugins/sample_library_editor_plugin.cpp
+msgid "Delete Sample"
+msgstr ""
+
+#: tools/editor/plugins/sample_library_editor_plugin.cpp
+msgid "16 Bits"
+msgstr ""
+
+#: tools/editor/plugins/sample_library_editor_plugin.cpp
+msgid "8 Bits"
+msgstr ""
+
+#: tools/editor/plugins/sample_library_editor_plugin.cpp
+msgid "Stereo"
+msgstr ""
+
+#: tools/editor/plugins/sample_library_editor_plugin.cpp
+msgid "Mono"
+msgstr ""
+
+#: tools/editor/plugins/sample_library_editor_plugin.cpp
+#: tools/editor/script_editor_debugger.cpp
+msgid "Format"
+msgstr ""
+
+#: tools/editor/plugins/sample_library_editor_plugin.cpp
+msgid "Pitch"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Error while saving theme"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Error saving"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Error importing theme"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Error importing"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Import Theme"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Save Theme As.."
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+#: tools/editor/project_export.cpp
+msgid "File"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+#: tools/editor/property_editor.cpp
+msgid "New"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Save All"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "History Prev"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "History Next"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Reload Theme"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Save Theme"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Save Theme As"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+#: tools/editor/scene_tree_dock.cpp
+msgid "Move Up"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+#: tools/editor/scene_tree_dock.cpp
+msgid "Move Down"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Indent Left"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Indent Right"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Toggle Comment"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Clone Down"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Complete Symbol"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Trim Trailing Whitespace"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Auto Indent"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+#: tools/editor/plugins/shader_editor_plugin.cpp
+msgid "Find.."
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+#: tools/editor/plugins/shader_editor_plugin.cpp
+msgid "Find Next"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+#: tools/editor/plugins/shader_editor_plugin.cpp
+msgid "Find Previous"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+#: tools/editor/plugins/shader_editor_plugin.cpp
+msgid "Replace.."
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Goto Function.."
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+#: tools/editor/plugins/shader_editor_plugin.cpp
+msgid "Goto Line.."
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Debug"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Toggle Breakpoint"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Remove All Breakpoints"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Goto Next Breakpoint"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Goto Previous Breakpoint"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+#: tools/editor/script_editor_debugger.cpp
+msgid "Step Over"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+#: tools/editor/script_editor_debugger.cpp
+msgid "Step Into"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+#: tools/editor/script_editor_debugger.cpp
+msgid "Break"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+#: tools/editor/script_editor_debugger.cpp
+msgid "Continue"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Keep Debugger Open"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Window"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Move Left"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Move Right"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Help"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Contextual"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Tutorials"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Open https://godotengine.org at tutorials section."
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Classes"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Search the class hierarchy."
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Search Help"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Search the reference documentation."
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Go to previous edited document."
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Go to next edited document."
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Create Script"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid ""
+"The following files are newer on disk.\n"
+"What action should be taken?:"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Reload"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Resave"
+msgstr ""
+
+#: tools/editor/plugins/script_editor_plugin.cpp
+#: tools/editor/script_editor_debugger.cpp
+msgid "Debugger"
+msgstr ""
+
+#: tools/editor/plugins/shader_editor_plugin.cpp
+msgid "Vertex"
+msgstr ""
+
+#: tools/editor/plugins/shader_editor_plugin.cpp
+msgid "Fragment"
+msgstr ""
+
+#: tools/editor/plugins/shader_editor_plugin.cpp
+msgid "Lighting"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Change Scalar Constant"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Change Vec Constant"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Change RGB Constant"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Change Scalar Operator"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Change Vec Operator"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Change Vec Scalar Operator"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Change RGB Operator"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Toggle Rot Only"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Change Scalar Function"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Change Vec Function"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Change Scalar Uniform"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Change Vec Uniform"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Change RGB Uniform"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Change Default Value"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Change XForm Uniform"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Change Texture Uniform"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Change Cubemap Uniform"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Change Comment"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Add/Remove to Color Ramp"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Add/Remove to Curve Map"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Modify Curve Map"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Change Input Name"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Connect Graph Nodes"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Disconnect Graph Nodes"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Remove Shader Graph Node"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Move Shader Graph Node"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Duplicate Graph Node(s)"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Delete Shader Graph Node(s)"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Error: Cyclic Connection Link"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Error: Missing Input Connections"
+msgstr ""
+
+#: tools/editor/plugins/shader_graph_editor_plugin.cpp
+msgid "Add Shader Graph Node"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Orthogonal"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Perspective"
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Transform Aborted."
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "View Plane Transform."
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "X-Axis Transform."
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Y-Axis Transform."
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Z-Axis Transform."
+msgstr ""
+
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Scaling to %s%%."
+msgstr ""

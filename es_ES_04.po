@@ -1,0 +1,1012 @@
+# LANGUAGE translation of the Godot Engine editor
+# Copyright (C) 2016 Juan Linietsky, Ariel Manzur and the Godot community
+# This file is distributed under the same license as the Godot source code.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Godot Engine editor\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_ES\n"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+#: tools/editor/plugins/sample_library_editor_plugin.cpp
+#: tools/editor/project_manager.cpp tools/editor/project_settings.cpp
+msgid "Name"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Start(s)"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "End(s)"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Loop"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Filters"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Source path is empty."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Couldn't load post-import script."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Invalid/broken script for post-import."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Error importing scene."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Import 3D Scene"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Source Scene:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Same as Target Scene"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Shared"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Target Texture Folder:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Post-Process Script:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Custom Root Node Type:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Auto"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "The Following Files are Missing:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Import Anyway"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Import & Open"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Edited scene has not been saved, open imported scene anyway?"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+#: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp
+msgid "Import Scene"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Importing Scene.."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Running Custom Script.."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Couldn't load post-import script:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Invalid/broken script for post-import:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Error running post-import script:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Import Image:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Can't import a file over itself:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Couldn't localize path: %s (already local)"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Saving.."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "3D Scene Animation"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Uncompressed"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Compress Lossless (PNG)"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Compress Lossy (WebP)"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Compress (VRAM)"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Texture Format"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Texture Compression Quality (WebP):"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Texture Options"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Please specify some files!"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "At least one file needed for Atlas."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Error importing:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Only one file is required for large texture."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Max Texture Size:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Import Textures for Atlas (2D)"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Cell Size:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Large Texture"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Import Large Textures (2D)"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Source Texture"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Base Atlas Texture"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Source Texture(s)"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Import Textures for 2D"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Import Textures for 3D"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Import Textures"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "2D Texture"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "3D Texture"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Atlas Texture"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid ""
+"NOTICE: Importing 2D textures is not mandatory. Just copy png/jpg files to "
+"the project."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Source Texture(s):"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Crop empty space."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Texture"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Import Large Texture"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Load Source Image"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Slicing"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Inserting"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Saving"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Couldn't save large texture:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Build Atlas For:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Loading Image:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Couldn't load image:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Converting Images"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Cropping Images"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Blitting Images"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Couldn't save atlas image:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Couldn't save converted texture:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp
+msgid "Invalid source!"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp
+msgid "Invalid translation source!"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp
+msgid "Column"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp
+#: tools/editor/script_create_dialog.cpp
+msgid "Language"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp
+msgid "No items to import!"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp
+msgid "No target path!"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp
+msgid "Import Translations"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp
+msgid "Couldn't import!"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp
+msgid "Import Translation"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp
+msgid "Source CSV:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp
+msgid "Ignore First Row"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp
+msgid "Compress"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp
+msgid "Add to Project (engine.cfg)"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp
+msgid "Import Languages:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp
+msgid "Translation"
+msgstr ""
+
+#: tools/editor/multi_node_edit.cpp
+msgid "MultiNode Set"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Toggle Autoplay"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "New Animation Name:"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "New Anim"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Change Animation Name:"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Remove Animation"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "ERROR: Invalid animation name!"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "ERROR: Animation name already exists!"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Rename Animation"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+msgid "Add Animation"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Blend Next Changed"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Change Blend Time"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Load Animation"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Duplicate Animation"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "ERROR: No animation to copy!"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "ERROR: No animation resource on clipboard!"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Pasted Animation"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Paste Animation"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "ERROR: No animation to edit!"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Play selected animation backwards from current pos. (A)"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Play selected animation backwards from end. (Shift+A)"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Stop animation playback. (S)"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Play selected animation from start. (Shift+D)"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Play selected animation from current pos. (D)"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Animation position (in seconds)."
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Scale animation playback globally for the node."
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Create new animation in player."
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Load an animation from disk."
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Save the current animation"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Display list of animations in player."
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Autoplay on Load"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Edit Target Blend Times"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Animation Tools"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Copy Animation"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Create New Animation"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Animation Name:"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+#: tools/editor/plugins/resource_preloader_editor_plugin.cpp
+#: tools/editor/plugins/sample_library_editor_plugin.cpp
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+#: tools/editor/property_editor.cpp tools/editor/script_create_dialog.cpp
+msgid "Error!"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Blend Times:"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Next (Auto Queue):"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Cross-Animation Blend Times"
+msgstr ""
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+msgid "Animation"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "New name:"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Scale:"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Fade In (s):"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Fade Out (s):"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Blend"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Mix"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Auto Restart:"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Restart (s):"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Random Restart (s):"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Start!"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+#: tools/editor/plugins/multimesh_editor_plugin.cpp
+msgid "Amount:"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Blend:"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Blend 0:"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Blend 1:"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "X-Fade Time (s):"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Current:"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Add Input"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Clear Auto-Advance"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Set Auto-Advance"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Delete Input"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Rename"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Animation tree is valid."
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Animation tree is invalid."
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Animation Node"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "OneShot Node"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Mix Node"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Blend2 Node"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Blend3 Node"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Blend4 Node"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "TimeScale Node"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "TimeSeek Node"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Transition Node"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Import Animations.."
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Edit Node Filters"
+msgstr ""
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Filters.."
+msgstr ""
+
+#: tools/editor/plugins/baked_light_baker.cpp
+msgid "Parsing %d Triangles:"
+msgstr ""
+
+#: tools/editor/plugins/baked_light_baker.cpp
+msgid "Triangle #"
+msgstr ""
+
+#: tools/editor/plugins/baked_light_baker.cpp
+msgid "Light Baker Setup:"
+msgstr ""
+
+#: tools/editor/plugins/baked_light_baker.cpp
+msgid "Parsing Geometry"
+msgstr ""
+
+#: tools/editor/plugins/baked_light_baker.cpp
+msgid "Fixing Lights"
+msgstr ""
+
+#: tools/editor/plugins/baked_light_baker.cpp
+msgid "Making BVH"
+msgstr ""
+
+#: tools/editor/plugins/baked_light_baker.cpp
+msgid "Creating Light Octree"
+msgstr ""
+
+#: tools/editor/plugins/baked_light_baker.cpp
+msgid "Creating Octree Texture"
+msgstr ""
+
+#: tools/editor/plugins/baked_light_baker.cpp
+msgid "Transfer to Lightmaps:"
+msgstr ""
+
+#: tools/editor/plugins/baked_light_baker.cpp
+msgid "Allocating Texture #"
+msgstr ""
+
+#: tools/editor/plugins/baked_light_baker.cpp
+msgid "Baking Triangle #"
+msgstr ""
+
+#: tools/editor/plugins/baked_light_baker.cpp
+msgid "Post-Processing Texture #"
+msgstr ""
+
+#: tools/editor/plugins/baked_light_editor_plugin.cpp
+msgid "BakedLightInstance does not contain a BakedLight resource."
+msgstr ""
+
+#: tools/editor/plugins/baked_light_editor_plugin.cpp
+msgid "Bake!"
+msgstr ""
+
+#: tools/editor/plugins/baked_light_editor_plugin.cpp
+msgid "Reset the lightmap octree baking process (start over)."
+msgstr ""
+
+#: tools/editor/plugins/camera_editor_plugin.cpp
+#: tools/editor/plugins/sample_library_editor_plugin.cpp
+msgid "Preview"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Configure Snap"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+#: tools/editor/plugins/sprite_region_editor_plugin.cpp
+msgid "Grid Offset:"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+#: tools/editor/plugins/sprite_region_editor_plugin.cpp
+msgid "Grid Step:"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Rotation Offset:"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Rotation Step:"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Move Pivot"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Move Action"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Edit IK Chain"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Edit CanvasItem"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Change Anchors"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Zoom (%):"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Paste Pose"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Select Mode (Q)"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Drag: Rotate"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Alt+Drag: Move"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Press 'v' to Change Pivot, 'Shift+v' to Drag Pivot (while moving)."
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Alt+RMB: Depth list selection"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Move Mode (W)"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Rotate Mode (E)"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid ""
+"Show a list of all objects at the position clicked\n"
+"(same as Alt+RMB in select mode)."
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Click to change object's rotation pivot."
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Pan Mode"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Lock the selected object in place (can't be moved)."
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Unlock the selected object (can be moved)."
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Makes sure the object's children are not selectable."
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Restores the object's children's ability to be selected."
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+#: tools/editor/plugins/script_editor_plugin.cpp
+#: tools/editor/plugins/shader_editor_plugin.cpp
+#: tools/editor/project_manager.cpp
+msgid "Edit"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Use Snap"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+#: tools/editor/plugins/sprite_region_editor_plugin.cpp
+msgid "Show Grid"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Use Rotation Snap"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Snap Relative"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Configure Snap.."
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Use Pixel Snap"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Expand to Parent"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Skeleton.."
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Make Bones"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Clear Bones"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Make IK Chain"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Clear IK Chain"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+#: tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "View"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Zoom In"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Zoom Out"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Zoom Reset"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Zoom Set.."
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Center Selection"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Frame Selection"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Anchor"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Insert Keys (Ins)"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Insert Key"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Insert Key (Existing Tracks)"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Copy Pose"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Clear Pose"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Set a Value"
+msgstr ""
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+msgid "Snap (Pixels):"
+msgstr ""
+
+#: tools/editor/plugins/collision_polygon_2d_editor_plugin.cpp
+#: tools/editor/plugins/light_occluder_2d_editor_plugin.cpp
+#: tools/editor/plugins/navigation_polygon_editor_plugin.cpp
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+msgid "Create Poly"
+msgstr ""
+
+#: tools/editor/plugins/collision_polygon_2d_editor_plugin.cpp
+#: tools/editor/plugins/collision_polygon_editor_plugin.cpp
+#: tools/editor/plugins/light_occluder_2d_editor_plugin.cpp
+#: tools/editor/plugins/navigation_polygon_editor_plugin.cpp
+#: tools/editor/plugins/path_2d_editor_plugin.cpp
+#: tools/editor/plugins/polygon_2d_editor_plugin.cpp
+msgid "Edit Poly"
+msgstr ""

@@ -1,0 +1,858 @@
+# LANGUAGE translation of the Godot Engine editor
+# Copyright (C) 2016 Juan Linietsky, Ariel Manzur and the Godot community
+# This file is distributed under the same license as the Godot source code.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Godot Engine editor\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_ES\n"
+
+#: tools/editor/project_settings.cpp
+msgid "Right Button."
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Middle Button."
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Wheel Up."
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Wheel Down."
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Toggle Persisting"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Error saving settings."
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Settings saved OK."
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Add Translation"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Toggle AutoLoad Globals"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Invalid name."
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Valid characters:"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Invalid name. Must not collide with an existing engine class name."
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Invalid name. Must not collide with an existing buit-in type name."
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Invalid name. Must not collide with an existing global constant name."
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Add Autoload"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Remove Autoload"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Move Autoload"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Remove Translation"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Add Remapped Path"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Resource Remap Add Remap"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Change Resource Remap Language"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Remove Resource Remap"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Remove Resource Remap Option"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Enable"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Project Settings (engine.cfg)"
+msgstr ""
+
+#: tools/editor/project_settings.cpp tools/editor/settings_config_dialog.cpp
+msgid "General"
+msgstr ""
+
+#: tools/editor/project_settings.cpp tools/editor/property_editor.cpp
+msgid "Property:"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Del"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Copy To Platform.."
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Input Map"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Action:"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Device:"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Index:"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Localization"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Translations"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Translations:"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Add.."
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Remaps"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Resources:"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Remaps by Locale:"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Locale"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "AutoLoad"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Node Name:"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "List:"
+msgstr ""
+
+#: tools/editor/project_settings.cpp
+msgid "Singleton"
+msgstr ""
+
+#: tools/editor/property_editor.cpp
+msgid "Preset.."
+msgstr ""
+
+#: tools/editor/property_editor.cpp
+msgid "Ease In"
+msgstr ""
+
+#: tools/editor/property_editor.cpp
+msgid "Ease Out"
+msgstr ""
+
+#: tools/editor/property_editor.cpp
+msgid "Zero"
+msgstr ""
+
+#: tools/editor/property_editor.cpp
+msgid "Easing In-Out"
+msgstr ""
+
+#: tools/editor/property_editor.cpp
+msgid "Easing Out-In"
+msgstr ""
+
+#: tools/editor/property_editor.cpp
+msgid "File.."
+msgstr ""
+
+#: tools/editor/property_editor.cpp
+msgid "Dir.."
+msgstr ""
+
+#: tools/editor/property_editor.cpp
+msgid "Load"
+msgstr ""
+
+#: tools/editor/property_editor.cpp
+msgid "Assign"
+msgstr ""
+
+#: tools/editor/property_editor.cpp
+msgid "Error loading file: Not a resource!"
+msgstr ""
+
+#: tools/editor/property_editor.cpp
+msgid "Couldn't load image"
+msgstr ""
+
+#: tools/editor/property_editor.cpp
+msgid "Bit %d, val %d."
+msgstr ""
+
+#: tools/editor/property_editor.cpp
+msgid "On"
+msgstr ""
+
+#: tools/editor/property_editor.cpp
+msgid "Set"
+msgstr ""
+
+#: tools/editor/property_editor.cpp
+msgid "Properties:"
+msgstr ""
+
+#: tools/editor/property_editor.cpp
+msgid "Global"
+msgstr ""
+
+#: tools/editor/property_editor.cpp
+msgid "Sections:"
+msgstr ""
+
+#: tools/editor/pvrtc_compress.cpp
+msgid "Could not execute PVRTC tool:"
+msgstr ""
+
+#: tools/editor/pvrtc_compress.cpp
+msgid "Can't load back converted image using PVRTC tool:"
+msgstr ""
+
+#: tools/editor/reparent_dialog.cpp tools/editor/scene_tree_dock.cpp
+msgid "Reparent Node"
+msgstr ""
+
+#: tools/editor/reparent_dialog.cpp
+msgid "Reparent Location (Select new Parent):"
+msgstr ""
+
+#: tools/editor/reparent_dialog.cpp
+msgid "Keep Global Transform"
+msgstr ""
+
+#: tools/editor/reparent_dialog.cpp tools/editor/scene_tree_dock.cpp
+msgid "Reparent"
+msgstr ""
+
+#: tools/editor/resources_dock.cpp
+msgid "Create New Resource"
+msgstr ""
+
+#: tools/editor/resources_dock.cpp
+msgid "Open Resource"
+msgstr ""
+
+#: tools/editor/resources_dock.cpp
+msgid "Save Resource"
+msgstr ""
+
+#: tools/editor/resources_dock.cpp
+msgid "Resource Tools"
+msgstr ""
+
+#: tools/editor/resources_dock.cpp
+msgid "Make Local"
+msgstr ""
+
+#: tools/editor/run_settings_dialog.cpp
+msgid "Run Mode:"
+msgstr ""
+
+#: tools/editor/run_settings_dialog.cpp
+msgid "Current Scene"
+msgstr ""
+
+#: tools/editor/run_settings_dialog.cpp
+msgid "Main Scene"
+msgstr ""
+
+#: tools/editor/run_settings_dialog.cpp
+msgid "Main Scene Arguments:"
+msgstr ""
+
+#: tools/editor/run_settings_dialog.cpp
+msgid "Scene Run Settings"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "OK :("
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "No parent to instance a child at."
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Error loading scene from %s"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Error instancing scene from %s"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Ok"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid ""
+"Cannot instance the scene '%s' because the current scene exists within one "
+"of its nodes."
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Instance Scene(s)"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "This operation can't be done on the tree root."
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Move Node In Parent"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Move Nodes In Parent"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Duplicate Node(s)"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Delete Node(s)?"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "This operation can't be done without a scene."
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "This operation requires a single selected node."
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "This operation can't be done on instanced scenes."
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Save New Scene As.."
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Makes Sense!"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Can't operate on nodes from a foreign scene!"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Can't operate on nodes the current scene inherits from!"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Remove Node(s)"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Create Node"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid ""
+"Couldn't save new scene. Likely dependencies (instances) couldn't be "
+"satisfied."
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Error saving scene."
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Error duplicating scene to save it."
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "New Scene Root"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Inherit Scene"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Add Child Node"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Instance Child Scene"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Change Type"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Edit Groups"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Edit Connections"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Add Script"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Merge From Scene"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Save Branch as Scene"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Delete Node(s)"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid "Add/Create a New Node"
+msgstr ""
+
+#: tools/editor/scene_tree_dock.cpp
+msgid ""
+"Instance a scene file as a Node. Creates an inherited scene if no root node "
+"exists."
+msgstr ""
+
+#: tools/editor/scene_tree_editor.cpp
+msgid ""
+"This item cannot be made visible because the parent is hidden. Unhide the "
+"parent first."
+msgstr ""
+
+#: tools/editor/scene_tree_editor.cpp
+msgid "Toggle Spatial Visible"
+msgstr ""
+
+#: tools/editor/scene_tree_editor.cpp
+msgid "Toggle CanvasItem Visible"
+msgstr ""
+
+#: tools/editor/scene_tree_editor.cpp
+msgid "Instance:"
+msgstr ""
+
+#: tools/editor/scene_tree_editor.cpp
+msgid "Invalid node name, the following characters are not allowed:"
+msgstr ""
+
+#: tools/editor/scene_tree_editor.cpp
+msgid "Rename Node"
+msgstr ""
+
+#: tools/editor/scene_tree_editor.cpp
+msgid "Scene Tree (Nodes):"
+msgstr ""
+
+#: tools/editor/scene_tree_editor.cpp
+msgid "Editable Children"
+msgstr ""
+
+#: tools/editor/scene_tree_editor.cpp
+msgid "Load As Placeholder"
+msgstr ""
+
+#: tools/editor/scene_tree_editor.cpp
+msgid "Open in Editor"
+msgstr ""
+
+#: tools/editor/scene_tree_editor.cpp
+msgid "Clear Inheritance"
+msgstr ""
+
+#: tools/editor/scene_tree_editor.cpp
+msgid "Clear Inheritance? (No Undo!)"
+msgstr ""
+
+#: tools/editor/scene_tree_editor.cpp
+msgid "Clear!"
+msgstr ""
+
+#: tools/editor/scene_tree_editor.cpp
+msgid "Select a Node"
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "Same source and destination files, doing nothing."
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "Same source and destination paths, doing nothing."
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "Can't move directories to within themselves."
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "Can't operate on '..'"
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "Pick New Name and Location For:"
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "No files selected!"
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "Instance"
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "Edit Dependencies.."
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "View Owners.."
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "Rename or Move.."
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "Move To.."
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "Info"
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "Show In File Manager"
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "Previous Directory"
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "Next Directory"
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "Re-Scan Filesystem"
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "Toggle folder status as Favorite"
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "Instance the selected scene(s) as child of the selected node."
+msgstr ""
+
+#: tools/editor/scenes_dock.cpp
+msgid "Move"
+msgstr ""
+
+#: tools/editor/script_create_dialog.cpp
+msgid "Invalid parent class name"
+msgstr ""
+
+#: tools/editor/script_create_dialog.cpp
+msgid "Valid chars:"
+msgstr ""
+
+#: tools/editor/script_create_dialog.cpp
+msgid "Invalid class name"
+msgstr ""
+
+#: tools/editor/script_create_dialog.cpp
+msgid "Valid name"
+msgstr ""
+
+#: tools/editor/script_create_dialog.cpp
+msgid "N/A"
+msgstr ""
+
+#: tools/editor/script_create_dialog.cpp
+msgid "Class name is invalid!"
+msgstr ""
+
+#: tools/editor/script_create_dialog.cpp
+msgid "Parent class name is invalid!"
+msgstr ""
+
+#: tools/editor/script_create_dialog.cpp
+msgid "Invalid path!"
+msgstr ""
+
+#: tools/editor/script_create_dialog.cpp
+msgid "Could not create script in filesystem."
+msgstr ""
+
+#: tools/editor/script_create_dialog.cpp
+msgid "Path is empty"
+msgstr ""
+
+#: tools/editor/script_create_dialog.cpp
+msgid "Path is not local"
+msgstr ""
+
+#: tools/editor/script_create_dialog.cpp
+msgid "Invalid base path"
+msgstr ""
+
+#: tools/editor/script_create_dialog.cpp
+msgid "File exists"
+msgstr ""
+
+#: tools/editor/script_create_dialog.cpp
+msgid "Invalid extension"
+msgstr ""
+
+#: tools/editor/script_create_dialog.cpp
+msgid "Valid path"
+msgstr ""
+
+#: tools/editor/script_create_dialog.cpp
+msgid "Class Name:"
+msgstr ""
+
+#: tools/editor/script_create_dialog.cpp
+msgid "Built-In Script"
+msgstr ""
+
+#: tools/editor/script_create_dialog.cpp
+msgid "Create Node Script"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Bytes:"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Warning"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Error:"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Source:"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Function:"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Errors"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Child Process Connected"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Inspect Previous Instance"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Inspect Next Instance"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Stack Frames"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Variable"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Errors:"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Stack Trace (if applicable):"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Remote Inspector"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Live Scene Tree:"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Remote Object Properties: "
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Profiler"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Monitor"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Value"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Monitors"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "List of Video Memory Usage by Resource:"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Total:"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Video Mem"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Resource Path"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Type"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Usage"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Misc"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Clicked Control:"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Clicked Control Type:"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Live Edit Root:"
+msgstr ""
+
+#: tools/editor/script_editor_debugger.cpp
+msgid "Set From Tree"
+msgstr ""
+
+#: tools/editor/settings_config_dialog.cpp
+msgid "Plugin List:"
+msgstr ""
+
+#: tools/editor/spatial_editor_gizmos.cpp
+msgid "Change Light Radius"
+msgstr ""
+
+#: tools/editor/spatial_editor_gizmos.cpp
+msgid "Change Camera FOV"
+msgstr ""
+
+#: tools/editor/spatial_editor_gizmos.cpp
+msgid "Change Camera Size"
+msgstr ""
+
+#: tools/editor/spatial_editor_gizmos.cpp
+msgid "Change Sphere Shape Radius"
+msgstr ""
+
+#: tools/editor/spatial_editor_gizmos.cpp
+msgid "Change Box Shape Extents"
+msgstr ""
+
+#: tools/editor/spatial_editor_gizmos.cpp
+msgid "Change Capsule Shape Radius"
+msgstr ""
+
+#: tools/editor/spatial_editor_gizmos.cpp
+msgid "Change Capsule Shape Height"
+msgstr ""
+
+#: tools/editor/spatial_editor_gizmos.cpp
+msgid "Change Ray Shape Length"
+msgstr ""
+
+#: tools/editor/spatial_editor_gizmos.cpp
+msgid "Change Notifier Extents"
+msgstr ""

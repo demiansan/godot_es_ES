@@ -1,0 +1,850 @@
+# LANGUAGE translation of the Godot Engine editor
+# Copyright (C) 2016 Juan Linietsky, Ariel Manzur and the Godot community
+# This file is distributed under the same license as the Godot source code.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Godot Engine editor\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_ES\n"
+
+#: scene/gui/dialogs.cpp tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Cancel"
+msgstr ""
+
+#: scene/gui/dialogs.cpp
+msgid "OK"
+msgstr ""
+
+#: scene/gui/dialogs.cpp
+msgid "Alert!"
+msgstr ""
+
+#: scene/gui/dialogs.cpp
+msgid "Please Confirm..."
+msgstr ""
+
+#: scene/gui/line_edit.cpp scene/gui/text_edit.cpp
+#: tools/editor/plugins/script_editor_plugin.cpp
+#: tools/editor/plugins/shader_editor_plugin.cpp
+msgid "Cut"
+msgstr ""
+
+#: scene/gui/line_edit.cpp scene/gui/text_edit.cpp
+#: tools/editor/plugins/script_editor_plugin.cpp
+#: tools/editor/plugins/shader_editor_plugin.cpp
+#: tools/editor/property_editor.cpp tools/editor/resources_dock.cpp
+msgid "Copy"
+msgstr ""
+
+#: scene/gui/line_edit.cpp scene/gui/text_edit.cpp
+#: tools/editor/plugins/resource_preloader_editor_plugin.cpp
+#: tools/editor/plugins/script_editor_plugin.cpp
+#: tools/editor/plugins/shader_editor_plugin.cpp
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+#: tools/editor/property_editor.cpp tools/editor/resources_dock.cpp
+msgid "Paste"
+msgstr ""
+
+#: scene/gui/line_edit.cpp scene/gui/text_edit.cpp
+#: tools/editor/plugins/script_editor_plugin.cpp
+#: tools/editor/plugins/shader_editor_plugin.cpp
+#: tools/editor/project_export.cpp
+msgid "Select All"
+msgstr ""
+
+#: scene/gui/line_edit.cpp scene/gui/text_edit.cpp tools/editor/editor_log.cpp
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+#: tools/editor/plugins/rich_text_editor_plugin.cpp
+#: tools/editor/property_editor.cpp tools/editor/script_editor_debugger.cpp
+msgid "Clear"
+msgstr ""
+
+#: scene/gui/line_edit.cpp scene/gui/text_edit.cpp tools/editor/editor_node.cpp
+#: tools/editor/plugins/script_editor_plugin.cpp
+#: tools/editor/plugins/shader_editor_plugin.cpp
+msgid "Undo"
+msgstr ""
+
+#: scene/gui/popup.cpp
+msgid ""
+"Popups will hide by default unless you call popup() or any of the popup*() "
+"functions. Making them visible for editing is fine though, but they will "
+"hide upon running."
+msgstr ""
+
+#: scene/main/viewport.cpp
+msgid ""
+"This viewport is not set as render target. If you intend for it to display "
+"its contents directly to the screen, make it a child of a Control so it can "
+"obtain a size. Otherwise, make it a RenderTarget and assign its internal "
+"texture to some node for display."
+msgstr ""
+
+#: scene/resources/dynamic_font.cpp
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+msgid "Error initializing FreeType."
+msgstr ""
+
+#: scene/resources/dynamic_font.cpp
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+msgid "Unknown font format."
+msgstr ""
+
+#: scene/resources/dynamic_font.cpp
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+msgid "Error loading font."
+msgstr ""
+
+#: scene/resources/dynamic_font.cpp
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+msgid "Invalid font size."
+msgstr ""
+
+#: tools/editor/addon_editor_plugin.cpp tools/editor/call_dialog.cpp
+#: tools/editor/connections_dialog.cpp tools/editor/groups_editor.cpp
+#: tools/editor/import_settings.cpp
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp
+#: tools/editor/plugins/resource_preloader_editor_plugin.cpp
+#: tools/editor/plugins/sample_library_editor_plugin.cpp
+#: tools/editor/plugins/script_editor_plugin.cpp
+#: tools/editor/plugins/sprite_frames_editor_plugin.cpp
+#: tools/editor/project_settings.cpp tools/editor/property_editor.cpp
+#: tools/editor/run_settings_dialog.cpp tools/editor/settings_config_dialog.cpp
+msgid "Close"
+msgstr ""
+
+#: tools/editor/addon_editor_plugin.cpp tools/editor/create_dialog.cpp
+#: tools/editor/editor_help.cpp tools/editor/editor_node.cpp
+#: tools/editor/plugins/script_editor_plugin.cpp tools/editor/quick_open.cpp
+#: tools/editor/settings_config_dialog.cpp
+msgid "Search:"
+msgstr ""
+
+#: tools/editor/addon_editor_plugin.cpp tools/editor/code_editor.cpp
+#: tools/editor/editor_help.cpp tools/editor/plugins/script_editor_plugin.cpp
+#: tools/editor/plugins/shader_editor_plugin.cpp
+#: tools/editor/project_settings.cpp
+msgid "Search"
+msgstr ""
+
+#: tools/editor/addon_editor_plugin.cpp tools/editor/editor_node.cpp
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+#: tools/editor/io_plugins/editor_mesh_import_plugin.cpp
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp
+#: tools/editor/project_manager.cpp
+msgid "Import"
+msgstr ""
+
+#: tools/editor/addon_editor_plugin.cpp tools/editor/project_settings.cpp
+#: tools/editor/settings_config_dialog.cpp
+msgid "Plugins"
+msgstr ""
+
+#: tools/editor/addon_editor_plugin.cpp
+msgid "Sort:"
+msgstr ""
+
+#: tools/editor/addon_editor_plugin.cpp
+msgid "Reverse"
+msgstr ""
+
+#: tools/editor/addon_editor_plugin.cpp tools/editor/project_settings.cpp
+msgid "Category:"
+msgstr ""
+
+#: tools/editor/addon_editor_plugin.cpp
+msgid "All"
+msgstr ""
+
+#: tools/editor/addon_editor_plugin.cpp
+msgid "Site:"
+msgstr ""
+
+#: tools/editor/addon_editor_plugin.cpp
+msgid "Assets ZIP File"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Disabled"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "All Selection"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Move Add Key"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Anim Change Transition"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Anim Change Transform"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Anim Change Value"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Anim Change Call"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Anim Add Track"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Move Anim Track Up"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Move Anim Track Down"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Remove Anim Track"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Anim Duplicate Keys"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Set Transitions to:"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Anim Track Rename"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Anim Track Change Interpolation"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Anim Track Change Value Mode"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Edit Node Curve"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Edit Selection Curve"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Anim Delete Keys"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Anim Add Key"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Anim Move Keys"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Scale Selection"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Scale From Cursor"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+#: tools/editor/plugins/tile_map_editor_plugin.cpp
+msgid "Duplicate Selection"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Duplicate Transposed"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Goto Next Step"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Goto Prev Step"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp tools/editor/property_editor.cpp
+msgid "Linear"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Constant"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "In"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Out"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "In-Out"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Out-In"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Transitions"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Optimize Animation"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Clean-Up Animation"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Create NEW track for %s and insert key?"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Create %d NEW tracks and insert keys?"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp tools/editor/create_dialog.cpp
+#: tools/editor/plugins/light_occluder_2d_editor_plugin.cpp
+#: tools/editor/plugins/mesh_instance_editor_plugin.cpp
+#: tools/editor/plugins/navigation_polygon_editor_plugin.cpp
+#: tools/editor/plugins/particles_editor_plugin.cpp
+#: tools/editor/project_manager.cpp tools/editor/script_create_dialog.cpp
+msgid "Create"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Anim Create & Insert"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Anim Insert Track & Key"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Anim Insert Key"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Change Anim Len"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Change Anim Loop"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Anim Create Typed Value Key"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Anim Insert"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Anim Scale Keys"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Anim Add Call Track"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Animation zoom."
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Length (s):"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Animation length (in seconds)."
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Step (s):"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Cursor step snap (in seconds)."
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Enable/Disable looping in animation."
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Add new tracks."
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Move current track up."
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Move current track down."
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Remove selected track."
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Track tools"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Enable editing of individual keys by clicking them."
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Anim. Optimizer"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Max. Linear Error:"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Max. Angular Error:"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Max Optimizable Angle:"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Optimize"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Key"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Transition"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Scale Ratio:"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Call Functions in Which Node?"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Remove invalid keys"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Remove unresolved and empty tracks"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Clean-up all animations"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Clean-Up Animation(s) (NO UNDO!)"
+msgstr ""
+
+#: tools/editor/animation_editor.cpp
+msgid "Clean-Up"
+msgstr ""
+
+#: tools/editor/array_property_edit.cpp
+msgid "Resize Array"
+msgstr ""
+
+#: tools/editor/array_property_edit.cpp
+msgid "Change Array Value Type"
+msgstr ""
+
+#: tools/editor/array_property_edit.cpp
+msgid "Change Array Value"
+msgstr ""
+
+#: tools/editor/call_dialog.cpp
+msgid "Method List For '%s':"
+msgstr ""
+
+#: tools/editor/call_dialog.cpp
+msgid "Call"
+msgstr ""
+
+#: tools/editor/call_dialog.cpp
+msgid "Method List:"
+msgstr ""
+
+#: tools/editor/call_dialog.cpp
+msgid "Arguments:"
+msgstr ""
+
+#: tools/editor/call_dialog.cpp
+msgid "Return:"
+msgstr ""
+
+#: tools/editor/code_editor.cpp
+msgid "Go to Line"
+msgstr ""
+
+#: tools/editor/code_editor.cpp
+msgid "Line Number:"
+msgstr ""
+
+#: tools/editor/code_editor.cpp
+msgid "No Matches"
+msgstr ""
+
+#: tools/editor/code_editor.cpp
+msgid "Replaced %d Ocurrence(s)."
+msgstr ""
+
+#: tools/editor/code_editor.cpp
+msgid "Replace"
+msgstr ""
+
+#: tools/editor/code_editor.cpp
+msgid "Replace All"
+msgstr ""
+
+#: tools/editor/code_editor.cpp
+msgid "Match Case"
+msgstr ""
+
+#: tools/editor/code_editor.cpp
+msgid "Whole Words"
+msgstr ""
+
+#: tools/editor/code_editor.cpp
+msgid "Selection Only"
+msgstr ""
+
+#: tools/editor/code_editor.cpp tools/editor/editor_help.cpp
+msgid "Find"
+msgstr ""
+
+#: tools/editor/code_editor.cpp
+msgid "Next"
+msgstr ""
+
+#: tools/editor/code_editor.cpp
+msgid "Replaced %d ocurrence(s)."
+msgstr ""
+
+#: tools/editor/code_editor.cpp
+msgid "Not found!"
+msgstr ""
+
+#: tools/editor/code_editor.cpp
+msgid "Replace By"
+msgstr ""
+
+#: tools/editor/code_editor.cpp
+msgid "Case Sensitive"
+msgstr ""
+
+#: tools/editor/code_editor.cpp
+msgid "Backwards"
+msgstr ""
+
+#: tools/editor/code_editor.cpp
+msgid "Prompt On Replace"
+msgstr ""
+
+#: tools/editor/code_editor.cpp
+msgid "Skip"
+msgstr ""
+
+#: tools/editor/code_editor.cpp tools/editor/script_editor_debugger.cpp
+msgid "Line:"
+msgstr ""
+
+#: tools/editor/code_editor.cpp
+msgid "Col:"
+msgstr ""
+
+#: tools/editor/connections_dialog.cpp
+msgid "Method in target Node must be specified!"
+msgstr ""
+
+#: tools/editor/connections_dialog.cpp
+msgid "Connect To Node:"
+msgstr ""
+
+#: tools/editor/connections_dialog.cpp
+msgid "Binds (Extra Params):"
+msgstr ""
+
+#: tools/editor/connections_dialog.cpp tools/editor/groups_editor.cpp
+#: tools/editor/plugins/item_list_editor_plugin.cpp
+#: tools/editor/plugins/theme_editor_plugin.cpp
+#: tools/editor/project_settings.cpp
+msgid "Add"
+msgstr ""
+
+#: tools/editor/connections_dialog.cpp tools/editor/dependency_editor.cpp
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+#: tools/editor/plugins/theme_editor_plugin.cpp
+#: tools/editor/project_manager.cpp
+msgid "Remove"
+msgstr ""
+
+#: tools/editor/connections_dialog.cpp
+msgid "Path To Node:"
+msgstr ""
+
+#: tools/editor/connections_dialog.cpp
+msgid "Method In Node:"
+msgstr ""
+
+#: tools/editor/connections_dialog.cpp
+msgid "Make Function"
+msgstr ""
+
+#: tools/editor/connections_dialog.cpp
+msgid "Deferred"
+msgstr ""
+
+#: tools/editor/connections_dialog.cpp
+msgid "Oneshot"
+msgstr ""
+
+#: tools/editor/connections_dialog.cpp
+msgid "Connect"
+msgstr ""
+
+#: tools/editor/connections_dialog.cpp
+msgid "Connect '%s' to '%s'"
+msgstr ""
+
+#: tools/editor/connections_dialog.cpp
+msgid "Create Subscription"
+msgstr ""
+
+#: tools/editor/connections_dialog.cpp
+msgid "Connect.."
+msgstr ""
+
+#: tools/editor/connections_dialog.cpp
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp
+msgid "Disconnect"
+msgstr ""
+
+#: tools/editor/connections_dialog.cpp
+msgid "Edit Connections.."
+msgstr ""
+
+#: tools/editor/connections_dialog.cpp
+msgid "Connections:"
+msgstr ""
+
+#: tools/editor/create_dialog.cpp
+msgid "Create New"
+msgstr ""
+
+#: tools/editor/create_dialog.cpp tools/editor/editor_help.cpp
+#: tools/editor/plugins/script_editor_plugin.cpp tools/editor/quick_open.cpp
+msgid "Matches:"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Search Replacement For:"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Dependencies For:"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid ""
+"Scene '%s' is currently being edited.\n"
+"Changes will not take effect unless reloaded."
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid ""
+"Resource '%s' is in use.\n"
+"Changes will take effect when reloaded."
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Dependencies"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Resource"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp tools/editor/project_manager.cpp
+#: tools/editor/project_settings.cpp
+msgid "Path"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Dependencies:"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Fix Broken"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Dependency Editor"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Search Replacement Resource:"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Owners Of:"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid ""
+"The files being removed are required by other resources in order for them to "
+"work.\n"
+"Remove them anyway? (no undo)"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Remove selected files from the project? (no undo)"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Error loading:"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Scene failed to load due to missing dependencies:"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Open Anyway"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Which action should be taken?"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Fix Dependencies"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Errors loading!"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Permanently delete %d item(s)? (No undo!)"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Owns"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Resources Without Explicit Ownership:"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp tools/editor/editor_node.cpp
+msgid "Orphan Resource Explorer"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp
+msgid "Delete selected files?"
+msgstr ""
+
+#: tools/editor/dependency_editor.cpp tools/editor/editor_node.cpp
+#: tools/editor/plugins/item_list_editor_plugin.cpp
+#: tools/editor/scenes_dock.cpp
+msgid "Delete"
+msgstr ""
+
+#: tools/editor/editor_data.cpp
+msgid "Updating Scene"
+msgstr ""
+
+#: tools/editor/editor_data.cpp
+msgid "Storing local changes.."
+msgstr ""
+
+#: tools/editor/editor_data.cpp
+msgid "Updating scene.."
+msgstr ""
+
+#: tools/editor/editor_dir_dialog.cpp
+msgid "Choose a Directory"
+msgstr ""
+
+#: tools/editor/editor_dir_dialog.cpp tools/editor/editor_file_dialog.cpp
+msgid "Create Folder"
+msgstr ""
+
+#: tools/editor/editor_dir_dialog.cpp tools/editor/editor_file_dialog.cpp
+#: tools/editor/editor_plugin_settings.cpp
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Name:"
+msgstr ""
+
+#: tools/editor/editor_dir_dialog.cpp tools/editor/editor_file_dialog.cpp
+msgid "Could not create folder."
+msgstr ""
+
+#: tools/editor/editor_dir_dialog.cpp
+msgid "Choose"
+msgstr ""
+
+#: tools/editor/editor_file_dialog.cpp
+msgid "File Exists, Overwrite?"
+msgstr ""
+
+#: tools/editor/editor_file_dialog.cpp
+msgid "All Recognized"
+msgstr ""
+
+#: tools/editor/editor_file_dialog.cpp
+msgid "All Files (*)"
+msgstr ""
+
+#: tools/editor/editor_file_dialog.cpp tools/editor/editor_help.cpp
+#: tools/editor/editor_node.cpp tools/editor/plugins/script_editor_plugin.cpp
+#: tools/editor/quick_open.cpp tools/editor/scenes_dock.cpp
+msgid "Open"
+msgstr ""
+
+#: tools/editor/editor_file_dialog.cpp tools/editor/editor_node.cpp
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Save"
+msgstr ""

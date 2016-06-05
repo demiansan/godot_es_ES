@@ -1,0 +1,1017 @@
+# LANGUAGE translation of the Godot Engine editor
+# Copyright (C) 2016 Juan Linietsky, Ariel Manzur and the Godot community
+# This file is distributed under the same license as the Godot source code.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Godot Engine editor\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_ES\n"
+
+#: tools/editor/editor_file_dialog.cpp
+msgid "Save a File"
+msgstr ""
+
+#: tools/editor/editor_file_dialog.cpp
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+#: tools/editor/project_settings.cpp tools/editor/script_create_dialog.cpp
+msgid "Path:"
+msgstr ""
+
+#: tools/editor/editor_file_dialog.cpp tools/editor/scenes_dock.cpp
+msgid "Favorites:"
+msgstr ""
+
+#: tools/editor/editor_file_dialog.cpp
+msgid "Recent:"
+msgstr ""
+
+#: tools/editor/editor_file_dialog.cpp
+msgid "Directories & Files:"
+msgstr ""
+
+#: tools/editor/editor_file_dialog.cpp
+msgid "Preview:"
+msgstr ""
+
+#: tools/editor/editor_file_dialog.cpp tools/editor/script_editor_debugger.cpp
+msgid "File:"
+msgstr ""
+
+#: tools/editor/editor_file_dialog.cpp
+msgid "Filter:"
+msgstr ""
+
+#: tools/editor/editor_file_dialog.cpp
+msgid "Must use a valid extension."
+msgstr ""
+
+#: tools/editor/editor_file_system.cpp
+msgid "Cannot go into subdir:"
+msgstr ""
+
+#: tools/editor/editor_file_system.cpp
+msgid "ScanSources"
+msgstr ""
+
+#: tools/editor/editor_help.cpp
+msgid "Search Classes"
+msgstr ""
+
+#: tools/editor/editor_help.cpp
+msgid "Class List:"
+msgstr ""
+
+#: tools/editor/editor_help.cpp tools/editor/property_editor.cpp
+msgid "Class:"
+msgstr ""
+
+#: tools/editor/editor_help.cpp tools/editor/scene_tree_editor.cpp
+#: tools/editor/script_create_dialog.cpp
+msgid "Inherits:"
+msgstr ""
+
+#: tools/editor/editor_help.cpp
+msgid "Inherited by:"
+msgstr ""
+
+#: tools/editor/editor_help.cpp
+msgid "Brief Description:"
+msgstr ""
+
+#: tools/editor/editor_help.cpp
+msgid "Public Methods:"
+msgstr ""
+
+#: tools/editor/editor_help.cpp
+msgid "Members:"
+msgstr ""
+
+#: tools/editor/editor_help.cpp
+msgid "GUI Theme Items:"
+msgstr ""
+
+#: tools/editor/editor_help.cpp
+msgid "Signals:"
+msgstr ""
+
+#: tools/editor/editor_help.cpp
+msgid "Constants:"
+msgstr ""
+
+#: tools/editor/editor_help.cpp tools/editor/script_editor_debugger.cpp
+msgid "Description:"
+msgstr ""
+
+#: tools/editor/editor_help.cpp
+msgid "Method Description:"
+msgstr ""
+
+#: tools/editor/editor_help.cpp
+msgid "Search Text"
+msgstr ""
+
+#: tools/editor/editor_import_export.cpp
+msgid "Added:"
+msgstr ""
+
+#: tools/editor/editor_import_export.cpp
+msgid "Removed:"
+msgstr ""
+
+#: tools/editor/editor_import_export.cpp tools/editor/project_export.cpp
+msgid "Error saving atlas:"
+msgstr ""
+
+#: tools/editor/editor_import_export.cpp
+msgid "Could not save atlas subtexture:"
+msgstr ""
+
+#: tools/editor/editor_import_export.cpp
+msgid "Storing File:"
+msgstr ""
+
+#: tools/editor/editor_import_export.cpp
+msgid "Packing"
+msgstr ""
+
+#: tools/editor/editor_import_export.cpp
+msgid "Exporting for %s"
+msgstr ""
+
+#: tools/editor/editor_import_export.cpp
+msgid "Setting Up.."
+msgstr ""
+
+#: tools/editor/editor_node.cpp tools/editor/editor_reimport_dialog.cpp
+msgid "Re-Importing"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Importing:"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Node From Scene"
+msgstr ""
+
+#: tools/editor/editor_node.cpp tools/editor/scenes_dock.cpp
+msgid "Re-Import.."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+#: tools/editor/resources_dock.cpp
+msgid "Error saving resource!"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+#: tools/editor/resources_dock.cpp
+msgid "Save Resource As.."
+msgstr ""
+
+#: tools/editor/editor_node.cpp tools/editor/scene_tree_dock.cpp
+msgid "I see.."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Can't open file for writing:"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Requested file format unknown:"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Error while saving."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Saving Scene"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Analyzing"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Creating Thumbnail"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid ""
+"Couldn't save scene. Likely dependencies (instances) couldn't be satisfied."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Failed to load resource."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Can't load MeshLibrary for merging!"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Error saving MeshLibrary!"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Can't load TileSet for merging!"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Error saving TileSet!"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Can't open export templates zip."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Loading Export Templates"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Error trying to save layout!"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Default editor layout overridden."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Layout name not found!"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Restored default layout to base settings."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Copy Params"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Set Params"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+#: tools/editor/plugins/resource_preloader_editor_plugin.cpp
+msgid "Paste Resource"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Copy Resource"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Make Built-In"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Make Sub-Resources Unique"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "There is no defined scene to run."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Current scene was never saved, please save it prior to running."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Could not start subprocess!"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Open Scene"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Open Base Scene"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Quick Open Scene.."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Quick Open Script.."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Yes"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Close scene? (Unsaved changes will be lost)"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Save Scene As.."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "This scene has never been saved. Save before running?"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Please save the scene first."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Save Translatable Strings"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Export Mesh Library"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Export Tile Set"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Quit"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Exit the editor?"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Current scene not saved. Open anyway?"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Can't reload a scene that was never saved."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Revert"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "This action cannot be undone. Revert anyway?"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Quick Run Scene.."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid ""
+"Open Project Manager? \n"
+"(Unsaved changes will be lost)"
+msgstr ""
+
+#: tools/editor/editor_node.cpp tools/editor/scene_tree_dock.cpp
+msgid "Ugh"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid ""
+"Error loading scene, it must be inside the project path. Use 'Import' to "
+"open the scene, then save it inside the project path."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Error loading scene."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Scene '%s' has broken dependencies:"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Save Layout"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Delete Layout"
+msgstr ""
+
+#: tools/editor/editor_node.cpp tools/editor/project_export.cpp
+msgid "Default"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Switch Scene Tab"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "%d more file(s)"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "%d more file(s) or folder(s)"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Scene"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Go to previously opened scene."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Operations with scene files."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "New Scene"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "New Inherited Scene.."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Open Scene.."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Save Scene"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Close Scene"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Close Goto Prev. Scene"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Open Recent"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Quick Search File.."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Convert To.."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Translatable Strings.."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "MeshLibrary.."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "TileSet.."
+msgstr ""
+
+#: tools/editor/editor_node.cpp tools/editor/plugins/script_editor_plugin.cpp
+#: tools/editor/plugins/shader_editor_plugin.cpp
+msgid "Redo"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Run Script"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Project Settings"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Revert Scene"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Quit to Project List"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Import assets to the project."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Miscellaneous project or scene-wide tools."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Tools"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Export the project to many platforms."
+msgstr ""
+
+#: tools/editor/editor_node.cpp tools/editor/project_export.cpp
+msgid "Export"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Play the project (F5)."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Pause the scene"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Stop the scene (F8)."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Play the edited scene (F6)."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Play custom scene"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Debug options"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Live Editing"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "File Server"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Deploy Remote Debug"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Deploy File Server Clients"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Visible Collision Shapes"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Visible Navigation"
+msgstr ""
+
+#: tools/editor/editor_node.cpp tools/editor/plugins/spatial_editor_plugin.cpp
+msgid "Settings"
+msgstr ""
+
+#: tools/editor/editor_node.cpp tools/editor/settings_config_dialog.cpp
+msgid "Editor Settings"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Editor Layout"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Install Export Templates"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "About"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Alerts when an external resource has changed."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Spins when the editor window repaints!"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Update Always"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Update Changes"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Inspector"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Create a new resource in memory and edit it."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Load an existing resource from disk and edit it."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Save the currently edited resource."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+#: tools/editor/plugins/animation_player_editor_plugin.cpp
+#: tools/editor/plugins/script_editor_plugin.cpp
+msgid "Save As.."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Go to the previous edited object in history."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Go to the next edited object in history."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "History of recently edited objects."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Object properties."
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "FileSystem"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Output"
+msgstr ""
+
+#: tools/editor/editor_node.cpp tools/editor/editor_reimport_dialog.cpp
+#: tools/editor/import_settings.cpp
+msgid "Re-Import"
+msgstr ""
+
+#: tools/editor/editor_node.cpp tools/editor/editor_plugin_settings.cpp
+msgid "Update"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Thanks from the Godot community!"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Thanks!"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Import Templates From ZIP File"
+msgstr ""
+
+#: tools/editor/editor_node.cpp tools/editor/project_export.cpp
+msgid "Export Project"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Export Library"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Merge With Existing"
+msgstr ""
+
+#: tools/editor/editor_node.cpp tools/editor/project_export.cpp
+msgid "Password:"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Open & Run a Script"
+msgstr ""
+
+#: tools/editor/editor_node.cpp
+msgid "Load Errors"
+msgstr ""
+
+#: tools/editor/editor_plugin_settings.cpp
+msgid "Installed Plugins:"
+msgstr ""
+
+#: tools/editor/editor_plugin_settings.cpp
+msgid "Version:"
+msgstr ""
+
+#: tools/editor/editor_plugin_settings.cpp
+msgid "Author:"
+msgstr ""
+
+#: tools/editor/editor_plugin_settings.cpp
+msgid "Status:"
+msgstr ""
+
+#: tools/editor/editor_profiler.cpp
+msgid "Stop Profiling"
+msgstr ""
+
+#: tools/editor/editor_profiler.cpp
+msgid "Start Profiling"
+msgstr ""
+
+#: tools/editor/editor_profiler.cpp
+msgid "Measure:"
+msgstr ""
+
+#: tools/editor/editor_profiler.cpp
+msgid "Frame Time (sec)"
+msgstr ""
+
+#: tools/editor/editor_profiler.cpp
+msgid "Average Time (sec)"
+msgstr ""
+
+#: tools/editor/editor_profiler.cpp
+msgid "Frame %"
+msgstr ""
+
+#: tools/editor/editor_profiler.cpp
+msgid "Fixed Frame %"
+msgstr ""
+
+#: tools/editor/editor_profiler.cpp tools/editor/script_editor_debugger.cpp
+msgid "Time:"
+msgstr ""
+
+#: tools/editor/editor_profiler.cpp
+msgid "Inclusive"
+msgstr ""
+
+#: tools/editor/editor_profiler.cpp
+msgid "Self"
+msgstr ""
+
+#: tools/editor/editor_profiler.cpp
+msgid "Frame #:"
+msgstr ""
+
+#: tools/editor/editor_reimport_dialog.cpp
+msgid "Please wait for scan to complete."
+msgstr ""
+
+#: tools/editor/editor_reimport_dialog.cpp
+msgid "Current scene must be saved to re-import."
+msgstr ""
+
+#: tools/editor/editor_reimport_dialog.cpp
+msgid "Save & Re-Import"
+msgstr ""
+
+#: tools/editor/editor_reimport_dialog.cpp
+msgid "Re-Import Changed Resources"
+msgstr ""
+
+#: tools/editor/editor_run_script.cpp
+msgid "Write your logic in the _run() method."
+msgstr ""
+
+#: tools/editor/editor_run_script.cpp
+msgid "There is an edited scene already."
+msgstr ""
+
+#: tools/editor/editor_run_script.cpp
+msgid "Couldn't instance script:"
+msgstr ""
+
+#: tools/editor/editor_run_script.cpp
+msgid "Did you forget the 'tool' keyword?"
+msgstr ""
+
+#: tools/editor/editor_run_script.cpp
+msgid "Couldn't run script:"
+msgstr ""
+
+#: tools/editor/editor_run_script.cpp
+msgid "Did you forget the '_run' method?"
+msgstr ""
+
+#: tools/editor/editor_settings.cpp
+msgid "Default (Same as Editor)"
+msgstr ""
+
+#: tools/editor/editor_sub_scene.cpp
+msgid "Select Node(s) to Import"
+msgstr ""
+
+#: tools/editor/editor_sub_scene.cpp
+msgid "Scene Path:"
+msgstr ""
+
+#: tools/editor/editor_sub_scene.cpp
+msgid "Import From Node:"
+msgstr ""
+
+#: tools/editor/file_type_cache.cpp
+msgid "Can't open file_type_cache.cch for writing, not saving file type cache!"
+msgstr ""
+
+#: tools/editor/groups_editor.cpp
+msgid "Add to Group"
+msgstr ""
+
+#: tools/editor/groups_editor.cpp
+msgid "Remove from Group"
+msgstr ""
+
+#: tools/editor/groups_editor.cpp
+msgid "Group Editor"
+msgstr ""
+
+#: tools/editor/groups_editor.cpp tools/editor/project_export.cpp
+msgid "Group"
+msgstr ""
+
+#: tools/editor/groups_editor.cpp
+msgid "Node Group(s)"
+msgstr ""
+
+#: tools/editor/import_settings.cpp
+msgid "Imported Resources"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+msgid "No source font file!"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+msgid "No target font resource!"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+msgid "Can't load/process source font."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+msgid "Couldn't save font."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+msgid "Source Font:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+msgid "Source Font Size:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+msgid "Dest Resource:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+msgid "The quick brown fox jumps over the lazy dog."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+msgid "Test:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+#: tools/editor/io_plugins/editor_mesh_import_plugin.cpp
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Options:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+msgid "Font Import"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp
+msgid "Accept"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+msgid ""
+"This file is already a Godot font file, please supply a BMFont type file "
+"instead."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+msgid "Failed opening as BMFont file."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+msgid "Invalid font custom source."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp
+#: tools/editor/plugins/theme_editor_plugin.cpp
+msgid "Font"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_mesh_import_plugin.cpp
+msgid "No meshes to import!"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_mesh_import_plugin.cpp
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp
+msgid "Save path is empty!"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_mesh_import_plugin.cpp
+msgid "Single Mesh Import"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_mesh_import_plugin.cpp
+msgid "Source Mesh(es):"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_mesh_import_plugin.cpp
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp
+msgid "Target Path:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_mesh_import_plugin.cpp
+msgid "Mesh"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_mesh_import_plugin.cpp
+msgid "Surface %d"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp
+msgid "No samples to import!"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Target path is empty."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Target path must be a complete resource path."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp
+msgid "Target path must exist."
+msgstr ""
+
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp
+msgid "Import Audio Samples"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp
+msgid "Source Sample(s):"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp
+msgid "Audio Sample"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "New Clip"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Animation Options"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Flags"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Bake FPS:"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Optimizer"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Max Linear Error"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Max Angular Error"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Max Angle"
+msgstr ""
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp
+msgid "Clips"
+msgstr ""
