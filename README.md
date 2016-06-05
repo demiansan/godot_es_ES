@@ -4,7 +4,7 @@
 
 Esta traducción tiene tres ramas (branches).
 
-*Actualmente te encuentras en __traduciendo.__
+* Actualmente te encuentras en __traduciendo.__
 
 * Aquí se va traduciendo poco a poco cada uno de los archivos __es_ES_0#.po__, cada vez que se complete uno, tras una revisión, pasará a la rama Master.
 
