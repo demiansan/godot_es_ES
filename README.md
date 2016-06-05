@@ -1,7 +1,5 @@
 # Godot Engine es_ES
-
-### Traducción al español (España) del entorno de creación de videojuegos godotengine.org
-
+#### Traducción al español (España) del entorno de creación de videojuegos godotengine.org
 _Esta traducción tiene tres ramas (branches):_
 
 1. __master:__ donde se publicarán las traducciones finales de cada uno de __es_ES_0#.po__ ademas del archivo final __es_ES.po__
